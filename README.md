@@ -1,0 +1,2 @@
+- Type "go get" to install necessary modules.
+- Type "go build" to build game.
